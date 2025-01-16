@@ -26,7 +26,7 @@ education:
 
 fields_of_interests:
   [
-    "Artificail Inteligence",
+    "Artificial Inteligence",
     "ML-DL",
     "Neuroscience",
     "Brain Machine Interface (BCI)",
